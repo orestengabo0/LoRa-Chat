@@ -1,5 +1,5 @@
-#include <SPI.h>
-#include <RH_RF95.h>
+#include <SPI.h> // SPI header
+#include <RH_RF95.h> // RH_RF95.h header
 
 // Pin definitions
 #define RFM95_CS 8

@@ -35,7 +35,7 @@ This project is an Arduino sketch for a simple LoRa-based chat transmitter and r
 4. Select your board and port, then upload the sketch.
 5. Open the Serial Monitor at 115200 baud.
 6. Type a message and press Enter to send it via LoRa.
-7. Received messages will be displayed in the Serial Monitor.
+7. Received messages will be displayed in the Serial Monitor on your pc or testing device.
 
 ## Configuration
 
@@ -45,3 +45,4 @@ This project is an Arduino sketch for a simple LoRa-based chat transmitter and r
 ## License
 
 This project is provided as-is for educational purposes.
+
