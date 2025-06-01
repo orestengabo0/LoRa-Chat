@@ -17,7 +17,7 @@ This project is an Arduino sketch for a simple LoRa-based chat transmitter and r
 ### Pin Connections
 
 | RFM95 Pin | Arduino Pin |
-|-----------|-------------|
+| --------- | ----------- |
 | CS        | 8           |
 | RST       | 4           |
 | INT       | 7           |
@@ -45,4 +45,3 @@ This project is an Arduino sketch for a simple LoRa-based chat transmitter and r
 ## License
 
 This project is provided as-is for educational purposes.
-
