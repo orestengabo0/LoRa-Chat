@@ -12,6 +12,7 @@
 // Singleton instance of the radio driver
 RH_RF95 rf95(RFM95_CS, RFM95_INT);
 
+//setting up the pins
 void setup()
 {
   pinMode(RFM95_RST, OUTPUT);
