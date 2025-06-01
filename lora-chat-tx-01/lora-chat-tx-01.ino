@@ -9,6 +9,9 @@
 // LoRa frequency
 #define RF95_FREQ 952.2
 
+
+
+
 // Singleton instance of the radio driver
 RH_RF95 rf95(RFM95_CS, RFM95_INT);
 
